@@ -13,7 +13,7 @@ export const RealtorPartnership = () => {
           For Realtors
         </h2>
         <p className="text-xl text-slate-600 mb-8 leading-relaxed">
-          If you are a real estate professional in Seattle, I provide consistent communication, fast pre-approvals, and on-time closings to support your transactions and protect your reputation.
+          If you are a real estate professional in Denver, I provide consistent communication, fast pre-approvals, and on-time closings to support your transactions and protect your reputation.
         </p>
         <Button variant="primary" size="lg">
           Partner With Me
