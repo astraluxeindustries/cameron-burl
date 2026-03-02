@@ -6,7 +6,7 @@ export const Differentiation = () => {
     {
       icon: <MapPin className="w-8 h-8 text-blue-700" />,
       title: "Local Market Expertise",
-      description: "Deep knowledge of the Seattle & King County real estate landscape to help you win offers."
+      description: "Deep knowledge of the Denver real estate landscape to help you win offers."
     },
     {
       icon: <Phone className="w-8 h-8 text-blue-700" />,
@@ -30,7 +30,7 @@ export const Differentiation = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="text-3xl md:text-4xl font-serif font-bold text-slate-900 mb-4">
-            Why Work With Sarah Jenkins?
+            Why Work With Cameron?
           </h2>
           <p className="text-lg text-slate-600 leading-relaxed">
             Choosing the right mortgage professional makes a difference. I provide direct guidance, proactive communication, and tailored loan strategies to ensure smooth closings.
