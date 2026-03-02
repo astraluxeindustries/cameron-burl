@@ -38,8 +38,8 @@ export const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-slate-500 font-medium uppercase tracking-wide">Email</p>
-                  <a href="mailto:sarah@premiermortgage.com" className="text-lg font-semibold text-slate-900 hover:text-blue-700 transition-colors">
-                    sarah@premiermortgage.com
+                  <a href="mailto:cburl@megastarfinancial.com" className="text-lg font-semibold text-slate-900 hover:text-blue-700 transition-colors">
+                    cburl@megastarfinancial.com
                   </a>
                 </div>
               </div>
@@ -52,7 +52,7 @@ export const Contact = () => {
                   <p className="text-sm text-slate-500 font-medium uppercase tracking-wide">Office</p>
                   <p className="text-slate-900">
                     123 Financial District Blvd, Suite 400<br />
-                    Seattle, WA 98101
+                    Denver, CO 98101
                   </p>
                 </div>
               </div>
