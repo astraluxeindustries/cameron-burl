@@ -19,16 +19,16 @@ export const Hero = () => {
         <div className="max-w-2xl">
           <div className="inline-flex items-center space-x-2 bg-blue-900/30 border border-blue-500/30 rounded-full px-3 py-1 mb-6 backdrop-blur-sm">
             <span className="flex h-2 w-2 rounded-full bg-blue-400"></span>
-            <span className="text-blue-100 text-xs font-medium tracking-wide uppercase">Trusted Mortgage Expert in Seattle, WA</span>
+            <span className="text-blue-100 text-xs font-medium tracking-wide uppercase">Trusted Mortgage Expert in Denver, CO</span>
           </div>
           
           <h1 className="text-4xl lg:text-6xl font-serif font-bold text-white leading-tight mb-6">
-            Sarah Jenkins <br />
+            Cameron Burl <br />
             <span className="text-slate-300 font-light italic text-3xl lg:text-5xl">Mortgage Loan Officer</span>
           </h1>
           
           <p className="text-lg text-slate-200 mb-8 leading-relaxed max-w-xl">
-            Helping First-Time Buyers, Homeowners, and Investors secure competitive, strategic home financing across King County.
+            Helping First-Time Buyers, Homeowners, and Investors secure competitive, strategic home financing across Denver.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 mb-12">
