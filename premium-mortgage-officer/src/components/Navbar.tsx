@@ -35,10 +35,10 @@ export const Navbar = () => {
           {/* Logo */}
           <div className="flex flex-col">
             <span className={`font-serif text-xl font-bold tracking-tight ${isScrolled ? 'text-slate-900' : 'text-slate-900 lg:text-white'}`}>
-              Sarah Jenkins
+              Cameron Burl
             </span>
             <span className={`text-xs uppercase tracking-widest ${isScrolled ? 'text-slate-500' : 'text-slate-500 lg:text-slate-200'}`}>
-              Premier Mortgage Group
+              MegaStar Financial
             </span>
           </div>
 
