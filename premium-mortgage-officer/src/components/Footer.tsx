@@ -7,9 +7,9 @@ export const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-4 gap-8 mb-12">
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-white font-serif text-2xl font-bold mb-4">Sarah Jenkins</h3>
+            <h3 className="text-white font-serif text-2xl font-bold mb-4">Cameron Burl</h3>
             <p className="mb-4 text-slate-400 max-w-sm">
-              Helping families in Seattle and King County achieve their homeownership dreams with integrity, transparency, and expertise.
+              Helping families in Denver achieve their homeownership dreams with integrity, transparency, and expertise.
             </p>
             <div className="flex items-center space-x-2 text-white">
               <Home className="w-5 h-5" />
@@ -40,15 +40,15 @@ export const Footer = () => {
         </div>
 
         <div className="border-t border-slate-800 pt-8 text-sm text-center md:text-left flex flex-col md:flex-row justify-between items-center">
-          <p>&copy; {new Date().getFullYear()} Sarah Jenkins | Premier Mortgage Group. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Cameron Burl | MegaStar Financial Corp. All rights reserved.</p>
           <p className="mt-2 md:mt-0">
-            NMLS #123456 | WA License #MLO-123456
+            NMLS #843648
           </p>
         </div>
         
         <div className="mt-8 text-xs text-slate-600 text-center max-w-4xl mx-auto">
           <p>
-            This is not a commitment to lend. All loans are subject to credit approval and property appraisal. Rates and programs are subject to change without notice. Premier Mortgage Group is an Equal Housing Lender.
+            This is not a commitment to lend. All loans are subject to credit approval and property appraisal. Rates and programs are subject to change without notice. MegaStar Financial Corp is an Equal Housing Lender.
           </p>
         </div>
       </div>
