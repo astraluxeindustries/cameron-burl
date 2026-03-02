@@ -39,7 +39,7 @@ export const LoanPrograms = () => {
     <section id="programs" className="py-20 bg-slate-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mb-12">
-          <span className="text-blue-700 font-semibold tracking-wider uppercase text-sm">Mortgage Solutions in Seattle, WA</span>
+          <span className="text-blue-700 font-semibold tracking-wider uppercase text-sm">Mortgage Solutions in Denver, CO</span>
           <h2 className="text-3xl md:text-4xl font-serif font-bold text-slate-900 mt-2">
             Comprehensive Home Loan Options
           </h2>
