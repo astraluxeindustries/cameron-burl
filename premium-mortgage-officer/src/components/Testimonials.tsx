@@ -5,17 +5,17 @@ import { Button } from './ui/Button';
 export const Testimonials = () => {
   const reviews = [
     {
-      text: "Sarah made the impossible possible. We had a complicated income situation, but she navigated it with ease. We are now in our dream home thanks to her!",
-      author: "Michael & Jessica T.",
+      text: "Cameron was the loan officer for the Buyer on My Seller’s Transaction. He kept me well informed throughout the transaction and was a very good communicator and perfect gentleman.",
+      author: "Nancy B.",
       type: "First-Time Buyers"
     },
     {
-      text: "As a real estate investor, I need speed and reliability. Sarah delivers both every single time. Her knowledge of the market is unmatched.",
-      author: "David R.",
+      text: "Cameron handled the entire loan process like a true professional, he is very knowledgeable and it shows.",
+      author: "Kellen B.",
       type: "Real Estate Investor"
     },
     {
-      text: "The communication was outstanding. I never had to guess where we were in the process. Highly recommend Sarah to anyone looking for a stress-free mortgage.",
+      text: "Cameron was there to answer all my questions and concerns for over a year as the process of buying our newly built home was underway. He always took my calls or made sure to call me back if he was unavailable. I felt like I was being taken care of the whole time.",
       author: "Amanda L.",
       type: "Refinance Client"
     }
